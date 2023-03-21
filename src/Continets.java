@@ -15,6 +15,16 @@ public class Continets {
                 break;
             case 4:
                 System.out.println("Africa: Lagos, Nigeria");
+                break;
+            case 5:
+                System.out.println("Asia: Shanghai, China");
+                break;
+            case 6:
+                System.out.println("Australia: Sydney, Australia");
+                break;
+            case 7:
+                System.out.println("Antarctica: McMurdo Station, US");
+                break;
 
         }
     }
