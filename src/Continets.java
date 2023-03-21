@@ -9,6 +9,13 @@ public class Continets {
                 break;
             case 2:
                 System.out.println(("South America: Sao Paulo, Brazil"));
+                break;
+            case 3:
+                System.out.println("Europe: Moscow, Russia");
+                break;
+            case 4:
+                System.out.println("Africa: Lagos, Nigeria");
+
         }
     }
 }
